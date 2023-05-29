@@ -1,2 +1,4 @@
-﻿  Weather.cpp
-  WeatherService.vcxproj -> C:\Уник\Введение в профессию\WeatherService\Debug\WeatherService.exe
+﻿  JsonService.cpp
+C:\Уник\Введение в профессию\WeatherService\WeatherService\JsonService.cpp(15,28): error C2143: синтаксическая ошибка: отсутствие "]" перед "строка"
+C:\Уник\Введение в профессию\WeatherService\WeatherService\JsonService.cpp(15,28): error C3260: "строка": пропускаются непредвиденные токены перед телом лямбда-функции
+C:\Уник\Введение в профессию\WeatherService\WeatherService\JsonService.cpp(20,1): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
